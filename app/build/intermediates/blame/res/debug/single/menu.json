@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/menu/menu_scrolling.xml",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/menu/menu_scrolling.xml"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/menu/menu_ticketbooking.xml",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/menu/menu_ticketbooking.xml"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/menu/main_searchable.xml",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/menu/main_searchable.xml"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/menu/menu_scrolling_movie.xml",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/menu/menu_scrolling_movie.xml"
+    }
+]

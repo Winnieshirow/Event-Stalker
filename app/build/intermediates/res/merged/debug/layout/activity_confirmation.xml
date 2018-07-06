@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.events.shirow.eventstalker.ConfirmationActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Large Text"
+        android:id="@+id/ctitle"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Ticket type"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/ctype"
+        android:layout_marginTop="52dp"
+        android:layout_below="@+id/ctitle"
+        android:layout_alignRight="@+id/cconfirm"
+        android:layout_alignEnd="@+id/cconfirm" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/camount"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_below="@+id/ctype"
+        android:layout_alignLeft="@+id/ctype"
+        android:layout_alignStart="@+id/ctype"
+        android:layout_marginTop="32dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="no_of_tickets"
+        android:textColor="@color/colorPrimaryDark"
+        android:id="@+id/cnum"
+        android:layout_below="@+id/camount"
+        android:layout_alignLeft="@+id/camount"
+        android:layout_alignStart="@+id/camount"
+        android:layout_marginTop="32dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Confirm Payment"
+        android:id="@+id/cconfirm"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorAccent2"
+        android:layout_below="@+id/cnum"
+        android:layout_toRightOf="@+id/textView3"
+        android:layout_toEndOf="@+id/textView3"
+        android:layout_marginTop="106dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Ticket Type :"
+        android:id="@+id/textView"
+        android:layout_alignTop="@+id/ctype"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Amount per ticket :"
+        android:id="@+id/textView2"
+        android:layout_alignTop="@+id/camount"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Number of tickets"
+        android:id="@+id/textView3"
+        android:layout_alignBottom="@+id/cnum"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Total Price:"
+        android:id="@+id/textView5"
+        android:layout_marginTop="51dp"
+        android:layout_below="@+id/textView3"
+        android:layout_alignRight="@+id/textView"
+        android:layout_alignEnd="@+id/textView" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Total price"
+        android:id="@+id/ctotal"
+        android:textColor="@color/colorPrimary"
+        android:layout_alignTop="@+id/textView5"
+        android:layout_alignLeft="@+id/cnum"
+        android:layout_alignStart="@+id/cnum" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Confirmation of ticket"
+        android:id="@+id/c"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/ctotal"
+        android:layout_alignEnd="@+id/ctotal" />
+
+</RelativeLayout>

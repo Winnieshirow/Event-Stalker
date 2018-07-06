@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_search.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_mic.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_mic.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_voice_search.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-ldpi-v4/ic_action_voice_search.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_home.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_face.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_face.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_settings.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_chat.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_search_toolbar.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search_toolbar.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_tickets.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_tickets.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_navigation_arrow_back.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-ldpi-v4/ic_action_navigation_arrow_back.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_navigation_close.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-ldpi-v4/ic_action_navigation_close.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_location.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_location.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_history_white.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-ldpi-v4/ic_history_white.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_arrow_back.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_suggestions.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_suggestions.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_search_white.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-ldpi-v4/ic_action_search_white.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_taxi.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_taxi.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_delete_black_24dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_details.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_details.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_arrow_back_black_24dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_hireride.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_hireride.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_close.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-ldpi/ic_close.png"
+    }
+]

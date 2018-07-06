@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 378
+                    }
+                }
+            }
+        ]
+    }
+]

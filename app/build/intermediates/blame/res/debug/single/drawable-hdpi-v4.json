@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_person.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/drawable-hdpi/ic_person.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_error.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/drawable-hdpi/ic_error.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_hireride.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_hireride.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_taxi.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_taxi.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_location.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_location.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_home.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_black_24dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_email.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/drawable-hdpi/ic_email.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_face.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_face.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_navigation_arrow_back.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-hdpi-v4/ic_action_navigation_arrow_back.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_name.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_arrow_back_black_24dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_search_toolbar.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search_toolbar.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_voice_search.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-hdpi-v4/ic_action_voice_search.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search_white.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-hdpi-v4/ic_action_search_white.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_chat.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tickets.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_tickets.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_arrow_back.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_arrow_back.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_navigation_close.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-hdpi-v4/ic_action_navigation_close.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_mic.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_mic.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_suggestions.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_suggestions.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_details.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_details.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_search.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_key.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/src/main/res/drawable-hdpi/ic_key.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_history_white.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/br.com.mauker.materialsearchview/materialsearchview/1.2.0/res/drawable-hdpi-v4/ic_history_white.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_settings.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_close.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/generated/res/pngs/debug/drawable-hdpi/ic_close.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png",
+        "source": "/home/shirow/AndroidStudioProjects/EventStalker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    }
+]
